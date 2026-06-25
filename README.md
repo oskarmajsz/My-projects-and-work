@@ -3,4 +3,5 @@ Here I share my work that I've done through my 3 years of learning programming i
 
 These projects are mostly from my school assignments and my imagination.
 
-I will upload something soon.
+1.[PL ONLY] Kalendarz do zadań - prosty, przejrzysty planner, gdzie można zapisać wszystkie swoje plany na przyszłość. (planowane powiadomienia w update'cie, ENG will also be included in the next update)
+I will upload websites soon.
