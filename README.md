@@ -5,4 +5,7 @@ These projects are mostly from my school assignments and my imagination.
 
 1.[PL ONLY] Kalendarz do zadań w pythonie - prosty, przejrzysty planner, gdzie można zapisać wszystkie swoje plany na przyszłość. (planowane powiadomienia w update'cie, ENG will also be included in the next update)
 
-I will upload websites soon.
+Wystarczy pobrać pliki, wrzucić do jednego folderu i uruchomić go za pomocą Pythona, aplikacji IDE lub terminalem.
+
+[WAŻNE]
+Aby program działał wymagany jest zainstalowany Python 3.14 (lub nowszy).
